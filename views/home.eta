@@ -1,3 +1,68 @@
 <% layout('./.layout') %>
 
-hi i'm from the `h o m e`
+<div class="hero">
+    <div class="hero--img"></div>
+    <div class="hero--overlay"></div>
+    <div class="hero--container">
+        <p>私のウィー・ウィー・ゴー・ボイング・ボイング</p>
+        <div class="hero--title"><strong>Nino</strong> Nakano</div>
+        <!-- TODO: Reddit button here. -->
+    </div>
+    <div class="hero--scroll-more">
+        <i class="fas fa-chevron-down"></i>
+        <p>Scroll down to learn more!~</p>
+        <i class="fas fa-chevron-down"></i>
+    </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+pe
