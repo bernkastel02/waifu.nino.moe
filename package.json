@@ -1,0 +1,15 @@
+{
+  "name": "waifu.nino.moe",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/nakanino/waifu.nino.moe.git",
+  "author": "nakanino",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "eta": "^1.12.1",
+    "express": "^4.17.1",
+    "less-middleware": "^3.1.0",
+    "morgan": "^1.10.0"
+  }
+}
